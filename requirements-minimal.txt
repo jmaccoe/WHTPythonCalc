@@ -1,0 +1,5 @@
+# Minimal requirements - use this if requirements.txt fails
+streamlit
+pytesseract
+Pillow
+pdfplumber
